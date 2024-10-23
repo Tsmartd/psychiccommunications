@@ -10,6 +10,9 @@ body {
     color:black;
     padding: 20px;
     text-align: center;
+      hight:40px;
+      width:100%;
+      justify-content: fixed;
   }
   
   nav ul {
